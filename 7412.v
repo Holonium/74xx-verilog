@@ -1,4 +1,4 @@
-module mod_7410 (
+module mod_7412 (
 	input A1, input B1, input C1, output Y1, 
 	input A2, input B2, input C2, output Y2, 
 	input A3, input B3, input C3, output Y3 
